@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DebuggingDemo", "DebuggingDemo\DebuggingDemo.csproj", "{C63831C3-22ED-4D32-A9D6-DE9C58F9637E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DebuggingDemo.Tests", "DebuggingDemo.Tests\DebuggingDemo.Tests.csproj", "{82D87058-DEE4-4E23-9B01-D3BE0C7D70D2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C63831C3-22ED-4D32-A9D6-DE9C58F9637E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C63831C3-22ED-4D32-A9D6-DE9C58F9637E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C63831C3-22ED-4D32-A9D6-DE9C58F9637E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C63831C3-22ED-4D32-A9D6-DE9C58F9637E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{82D87058-DEE4-4E23-9B01-D3BE0C7D70D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82D87058-DEE4-4E23-9B01-D3BE0C7D70D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82D87058-DEE4-4E23-9B01-D3BE0C7D70D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82D87058-DEE4-4E23-9B01-D3BE0C7D70D2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
